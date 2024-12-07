@@ -4,7 +4,7 @@
 
 **Descrição:** Suponha uma matriz de 3 linhas por 3 colunas do tipo inteiro. Leia os valores dessa matriz e informe o maior e o menor elemento.
 
-**[Solução](ex01.c)**
+**[Solução](Questao1.c)**
 
 ---
 
@@ -12,7 +12,7 @@
 
 **Descrição:** Suponha uma matriz de 3 linhas por 3 colunas do tipo inteiro. Leia os valores dessa matriz e informe o maior e o menor elemento.  
 
-**[Solução](ex02.c)**
+**[Solução](Questao2.c)**
 
 ---
 
@@ -20,7 +20,7 @@
 
 **Descrição:** Notas da turma – Faça um programa para ler as notas de 4 provas para 5 alunos de uma turma. Calcule a média de cada aluno e a média da turma.  
 
-**[Solução](ex03.c)**
+**[Solução](Questao3.c)**
 
 ---
 
@@ -33,7 +33,7 @@ Escreva um programa que leia os índices pluviométricos e imprima:
 - O índice de pluviosidade médio mensal de cada cidade;  
 - O índice de pluviosidade médio de cada mês na região.  
 
-**[Solução](ex04.c)**
+**[Solução](Questao4.c)**
 
 ---
 
@@ -54,7 +54,7 @@ x = 4;
 
 ```
 
-**[Solução](ex05.c)**
+**[Solução](Questao5.c)**
 
 ---
 
@@ -105,4 +105,4 @@ x = 4;
 
 **Observação:** Se `N = 5`, por exemplo, a somatória será igual a 15, ou seja, \( 1 + 2 + 3 + 4 + 5 = 15 \).  
 
-**[Solução](ex10.c)**
+**[Solução](Questao10.c)**
