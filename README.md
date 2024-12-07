@@ -71,7 +71,7 @@ x = 4;
 - **Tempo estimado de voo:** float;  
 - **Passageiros a bordo:** inteiro.  
 
-**[Solução](https://github.com/matsilva03/exercicios-estruturas-dados/blob/4859f91ccdeee6a36b718ce27cb2637a34b595d4/ex06_07_08_09.c#L6-L35)**
+**[Solução](https://github.com/matsilva03/exercicios-estruturas-dados/blob/ca380fef742160bbc5d122261bcdd91a9bea10a0/Questao6_7_8_9.c#L6-L35)**
 
 ---
 
@@ -79,7 +79,7 @@ x = 4;
 
 **Descrição:** Implemente a função `cadastrarVoo()` para permitir o cadastro de um novo voo.  
 
-**[Solução](https://github.com/matsilva03/exercicios-estruturas-dados/blob/4859f91ccdeee6a36b718ce27cb2637a34b595d4/ex06_07_08_09.c#L126-L143)**
+**[Solução](https://github.com/matsilva03/exercicios-estruturas-dados/blob/ca380fef742160bbc5d122261bcdd91a9bea10a0/Questao6_7_8_9.c#L126-L143)**
 
 ---
 
@@ -87,7 +87,7 @@ x = 4;
 
 **Descrição:** Implemente a função `consultaVoo()` para obter informações sobre um voo com base no número do voo.  
 
-**[Solução](https://github.com/matsilva03/exercicios-estruturas-dados/blob/4859f91ccdeee6a36b718ce27cb2637a34b595d4/ex06_07_08_09.c#L145-L196)**
+**[Solução](https://github.com/matsilva03/exercicios-estruturas-dados/blob/ca380fef742160bbc5d122261bcdd91a9bea10a0/Questao6_7_8_9.c#L145-L196)**
 
 ---
 
@@ -95,7 +95,7 @@ x = 4;
 
 **Descrição:** Implemente a função `removeVoo()` para permitir a exclusão de um voo.  
 
-**[Solução](https://github.com/matsilva03/exercicios-estruturas-dados/blob/4859f91ccdeee6a36b718ce27cb2637a34b595d4/ex06_07_08_09.c#L198-L227)**
+**[Solução](https://github.com/matsilva03/exercicios-estruturas-dados/blob/ca380fef742160bbc5d122261bcdd91a9bea10a0/Questao6_7_8_9.c#L198-L227)**
 
 ---
 
